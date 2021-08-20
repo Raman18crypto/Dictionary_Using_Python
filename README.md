@@ -1,4 +1,4 @@
-# Dictionary_Using_Python
+# Designing the Dictionary Using Python
 
 Algorithm Design : <br>
 <br>
